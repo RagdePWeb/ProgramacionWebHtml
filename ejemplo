@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<HTML>
+	<head>
+		<metacharset = "utf-8">
+		<title> El perro oso show </title>
+	</head>
+	<body bgcolor = "blue">
+		<center>
+		<h1>  tics it leon</h1>
+		<img src = "C:\Users\famlo\Documents\Edgar ulises\Semestre 8\Segurida Informatica\practicas\imagenes\El_perro_oso.jpg" height= "100" alt = "logo perro oso"/img>
+
+		<a hrsf = "mi pagina web" target = "_blank">mi pagina web> </a>
+		</center>
+		<br>
+	<marquee> ingenieria en tecnologias de al informaciony comunicaciones </marquee>
+		<br>
+		<br>
+	<marquee direction= "up"> curso de seguridad informatica </marquee>
+		<br>
+		<br>
+	<marquee direction= "down" width = "200" height="150" behavior= "alternate" style= "border:solid"></marque>
+		<br>
+	<marqee bahavior= "siternate"> certificados de seguridad gratuitos </marquee>
+		<br>
+	</body>
+
+
+</HTML>
